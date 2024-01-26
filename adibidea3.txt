@@ -1,0 +1,3 @@
+git checkout main
+git add adibidea3.txt
+git commit -m "Adibidea3 sortuz"
